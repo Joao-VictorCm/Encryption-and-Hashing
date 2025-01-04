@@ -1,6 +1,6 @@
 # Encryption-and-Hashing
 
-Este é um projeto simples de autenticação de usuários desenvolvido com Node.js, Express, PostgreSQL e bcrypt para criptografia de senhas. A aplicação permite que usuários se registrem e façam login com segurança.
+Este é um projeto de autenticação de usuários desenvolvido com Node.js, Express, PostgreSQL e bcrypt para criptografia de senhas. A aplicação permite que usuários se registrem e façam login com segurança.
 
 ## 🚀 Funcionalidades
 - Registro de usuários com hash de senha seguro.
